@@ -53,7 +53,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=JAVASCRIPT&logoColor=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&logoColor=html)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-2C8EBB?style=for-the-badge&logo=CSS3&logoColor=css)&nbsp;
-![Banco de Dados](https://img.shields.io/badge/-DataBase-05122A?style=for-the-badge&logo=DATABASE&logoColor=db)&nbsp;
+![Banco de Dados](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=GIT&logoColor=git)&nbsp;
 
 
