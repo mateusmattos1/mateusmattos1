@@ -16,7 +16,7 @@
 <br />
 
 <p align="left"> 
-  :computer: In development, starting in the programming area. I'm 19 years old. Tecnico em Informática p/ Internet Integrado to High School by the Federal Institute of Espírito Santo - IFES CAMPUS SERRA. The desired course in higher education is Analysis and Systems Development. My wish is to work with back end and data. now i'm focusing on Java, C# and Python.
+  :computer: In development, starting in the programming area. I'm 19 years old. Tecnico em Informática p/ Internet Integrado to High School by the Federal Institute of Espírito Santo - IFES CAMPUS SERRA. The desired course in higher education is Analysis and Systems Development. My wish is to work with systems and/or data. now i'm focusing on Java, C# and Python.
  
 </p>
 
@@ -38,7 +38,7 @@
   <br />
   🔆 Follow me on [Instagram](https://www.instagram.com/mateusmattos2/)
   <br />
-  💻 Visit my projects [here](https://github.com/ShaTeixeira?tab=repositories)
+  💻 Visit my projects [here](https://github.com/mateusmattos1?tab=repositories)
   <br />
   🔷 Initiating studies *C#*.
   <br />
@@ -60,8 +60,8 @@
 
 ## 📈 My GitHub Stats:
 
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=mateusmattos1&show_icons=true&theme=tokyonight" alt="ShaTeixeira's stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmattos1&layout=compact&theme=tokyonight" alt="ShaTeixeira's most languages"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=mateusmattos1&show_icons=true&theme=tokyonight" alt="MateusMattos's stats"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmattos1&layout=compact&theme=tokyonight" alt="MateusMattos's most languages"/>
 </p>
 
 
