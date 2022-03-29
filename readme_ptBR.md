@@ -29,7 +29,7 @@
 
 <br />
 
-<p align="left"> 
+<p align="justify"> 
   :computer: Em desenvolvimento, começando na área de programação. eu tenho 19 anos.  Formado em Tecnico em Informática p/ Internet Integrada ao Ensino Médio pelo Instituto Federal do Espírito Santo - IFES CAMPUS SERRA. O curso desejado no ensino superior é Análise e Desenvolvimento de Sistemas. Meu desejo é trabalhar  com sistemas e/ou dados. No momento estou estudando Python, Java e C#.
 </p>
 
