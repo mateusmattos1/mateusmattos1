@@ -1,8 +1,20 @@
 
-<img align="right" height="500rem" src="preview/preview.png"/>
+<img align="right" width="250px" style="margin-top:-50px" src="Capturar-removebg-preview.png">
 
-<h1 align="left">Olá pessoal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">. Eu sou Mateus.</h1>
-</h1>
+</br>
+</br>
+
+<div dsplay="inline-block">
+ 
+ <h1 align="left">Mateus de Mattos</h1>
+ <a href="https://www.instagram.com/mateusmattos2/">
+    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+  </a> 
+  
+  <a href="https://www.linkedin.com/in/mateus-ferreira-270259180/">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
+</div>
 
 <br />
 <br />
@@ -21,6 +33,9 @@
   :computer: Em desenvolvimento, começando na área de programação. eu tenho 19 anos.  Formado em Tecnico em Informática p/ Internet Integrada ao Ensino Médio pelo Instituto Federal do Espírito Santo - IFES CAMPUS SERRA. O curso desejado no ensino superior é Análise e Desenvolvimento de Sistemas. Meu desejo é trabalhar  com sistemas e/ou dados. No momento estou estudando Python, Java e C#.
 </p>
 
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
 
 📬 Contato
 
@@ -67,4 +82,5 @@
 <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmattos1&layout=compact&theme=vision-friendly-dark" alt="MateusMattos's most languages"/>
 </p>
 
+![Snake animation](https://github.com/mateusmattos1/mateusmattos1/blob/output/github-contribution-grid-snake.svg)&nbsp;
 ---
