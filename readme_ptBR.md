@@ -1,5 +1,5 @@
 
-<img align="right" width="250px" style="margin-top:-50px" src="Capturar-removebg-preview.png">
+<img align="right" width="400px" style="margin-top:0" src="Capturar-removebg-preview.png">
 
 </br>
 </br>
