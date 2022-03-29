@@ -80,14 +80,12 @@
 
 ## 📈 My GitHub Stats:
 
+![Snake animation](https://github.com/mateusmattos1/mateusmattos1/blob/output/github-contribution-grid-snake.svg)&nbsp;
+
 <p align="center"> 
 <a href="https://github.com/mateusmattos1">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mateusmattos1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mateusmattos1&layout=compact&langs_count=8&theme=algolia"/>
-
-
-
-![Snake animation](https://github.com/mateusmattos1/mateusmattos1/blob/output/github-contribution-grid-snake.svg)&nbsp;
 </a>
 </p>
 
