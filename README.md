@@ -1,4 +1,4 @@
-<img align="right" style="margin-top:0px" src="Capturar-removebg-preview.png">
+<img align="right" width="300em" style="margin-top:0px" src="Capturar-removebg-preview.png">
 
 </br>
 </br>
