@@ -83,8 +83,8 @@
 <p align="center">
 <a href="https://github.com/mateusmattos1">
 
-<img width="450em" src="https://github-readme-stats.vercel.app/api?username=mateusmattos1&show_icons=true&theme=tokyonight" alt="MateusMattos's stats"/>
-<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmattos1&layout=compact&theme=tokyonight" alt="MateusMattos's most languages"/>
+<img width="450em" height="300em" src="https://github-readme-stats.vercel.app/api?username=mateusmattos1&show_icons=true&theme=tokyonight" alt="MateusMattos's stats"/>
+<img width="450em" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmattos1&layout=compact&theme=tokyonight" alt="MateusMattos's most languages"/>
  
  </p></a>
 
