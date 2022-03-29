@@ -1,4 +1,4 @@
-<img align="right" width="300px" style="margin-top:100px" src="Capturar-removebg-preview.png">
+<img align="right" width="250px" style="margin-top:-50px" src="Capturar-removebg-preview.png">
 
 </br>
 </br>
@@ -88,6 +88,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mateusmattos1&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+![Snake animation](https://github.com/mateusmattos1/mateusmattos1/blob/output/github-contribution-grid-snake.svg)&nbsp;
 
 </p>
 
