@@ -30,7 +30,7 @@
 
 <br />
 
-<p align="center"> 
+<p align="left"> 
   :computer: In development, starting in the programming area. I'm 19 years old. Tecnico em Informática p/ Internet Integrado to High School by the Federal Institute of Espírito Santo - IFES CAMPUS SERRA. The desired course in higher education is Analysis and Systems Development. My wish is to work with systems and/or data. now i'm focusing on Java, C# and Python.
 </p>
 
