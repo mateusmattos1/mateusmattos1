@@ -1,7 +1,22 @@
-<img align="right" height="500rem" src="preview/preview.png"/>
+<img align="right" width="250px" style="margin-top:-20px" src="">
 
-<h1 align="left">Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">. I'm Mateus.</h1>
-</h1>
+</br>
+</br>
+
+<div dsplay="inline-block">
+ 
+ <h1 align="left">Jeniffer Bittencourt</h1>
+ <a href="https://www.instagram.com/mateusmattos2/">
+    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+  </a> 
+  
+  <a href="https://www.linkedin.com/in/mateus-ferreira-270259180/">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
+</div>
+
+
+
 
 <br />
 <br />
@@ -18,6 +33,11 @@
 <p align="left"> 
   :computer: In development, starting in the programming area. I'm 19 years old. Tecnico em Informática p/ Internet Integrado to High School by the Federal Institute of Espírito Santo - IFES CAMPUS SERRA. The desired course in higher education is Analysis and Systems Development. My wish is to work with systems and/or data. now i'm focusing on Java, C# and Python.
  
+ 
+</p>
+
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
 
 
