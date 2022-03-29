@@ -1,11 +1,11 @@
-<img align="right" width="250px" style="margin-top:-50px" src="Capturar-removebg-preview.png">
+<img align="right" width="250px" style="margin-top:0px" src="Capturar-removebg-preview.png">
 
 </br>
 </br>
 
 <div dsplay="inline-block">
  
- <h1 align="center">    Mateus de Mattos Ferreira</h1>
+ <h1>Mateus de Mattos Ferreira</h1>
  <a href="https://www.instagram.com/mateusmattos2/">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
