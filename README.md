@@ -80,8 +80,8 @@
 
 ## 📈 My GitHub Stats:
 
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=mateusmattos1&show_icons=true&theme=tokyonight" alt="MateusMattos's stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmattos1&layout=compact&theme=tokyonight" alt="MateusMattos's most languages"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=mateusmattos1&show_icons=true&theme=tokyonight" alt="MateusMattos's stats"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmattos1&layout=compact&theme=tokyonight" alt="MateusMattos's most languages"/>
 
 </p>
 
