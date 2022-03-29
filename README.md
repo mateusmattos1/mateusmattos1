@@ -34,15 +34,15 @@
 ## About Me
   👩‍🎓 Final paper successfully finalized (project integrator, TCC).
   <br />
-  🎓 More advanced skills on *Java*, *C#* and *Python*.
+  🎓 More advanced skills on *Java* and *Python*.
   <br />
   🔆 Follow me on [Instagram](https://www.instagram.com/mateusmattos2/)
   <br />
   💻 Visit my projects [here](https://github.com/ShaTeixeira?tab=repositories)
   <br />
-  🔷 Initiating studies *ReactJS.*
+  🔷 Initiating studies *C#*.
   <br />
-  💥 Like to play guitar and ukulele, read and watch series.
+  💥 Like to play flute, watch series and play videogame.
   
 <br><br>
 
