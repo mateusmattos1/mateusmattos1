@@ -5,9 +5,9 @@
 
 <div dsplay="inline-block">
  
- <h1 align="center">Mateus de Mattos Ferreira</h1>
+ <h1 align="center">    Mateus de Mattos Ferreira</h1>
  <a href="https://www.instagram.com/mateusmattos2/">
-    <img align="center" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
   
   <a href="https://www.linkedin.com/in/mateus-ferreira-270259180/">
