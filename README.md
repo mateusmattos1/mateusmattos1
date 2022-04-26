@@ -58,7 +58,7 @@
   <br />
   💻 Visit my projects [here](https://github.com/mateusmattos1?tab=repositories)
   <br />
-  🔷 Initiating studies *C#*.
+  🔷 intensifying studies *C#*.
   <br />
   💥 Like to play flute, watch series and play videogame.
   
