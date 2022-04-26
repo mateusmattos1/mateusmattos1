@@ -56,7 +56,7 @@
   <br />
   💻 Visite meus projetos [aqui](https://github.com/mateusmattos1?tab=repositories)
   <br />
-  🔷 Iniciando estudos *C#.*  
+  🔷 Intensificando estudos *C#.*  
   💥 Gosto de tocar flauta, asssistir séries e jogar videogame.
   
 <br><br>
