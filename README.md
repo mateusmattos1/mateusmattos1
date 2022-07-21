@@ -31,7 +31,7 @@
 <br />
 
 <p align="justify"> 
-  :computer: In development, starting in the programming area. I'm 19 years old. Tecnico em Informática p/ Internet Integrado to High School by the Federal Institute of Espírito Santo - IFES CAMPUS SERRA. The desired course in higher education is Analysis and Systems Development. My wish is to work with systems and/or data. now i'm focusing on Java, C# and Python.
+  :computer: In development, starting in the programming area. I'm 19 years old. Computer Technician for Internet integrated into high school by the Federal Institute of Espírito Santo - IFES CAMPUS SERRA. The desired course in higher education is Analysis and Systems Development. My wish is to work with systems and/or data. now i'm focusing on Java, C# and Python.
 </p>
 
 <p align="center">
@@ -52,13 +52,13 @@
 ## About Me
   👩‍🎓 Final paper successfully finalized (project integrator, TCC).
   <br />
-  🎓 More advanced skills on *Java* and *Python*.
+  🎓 More advanced skills on *C#*, *Java* and *Python*.
   <br />
   🔆 Follow me on [Instagram](https://www.instagram.com/mateusmattos2/)
   <br />
   💻 Visit my projects [here](https://github.com/mateusmattos1?tab=repositories)
   <br />
-  🔷 intensifying studies *C#*.
+  🔷 intensifying studies *.NET*.
   <br />
   💥 Like to play flute, watch series and play videogame.
   
