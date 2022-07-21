@@ -50,13 +50,13 @@
 ## Sobre Mim 
   👩‍🎓 Projeto Integrador finalizado com sucesso.
   <br />
-  🎓 Habilidades mais avançadas sobre  *Python e Java.* 
+  🎓 Habilidades mais avançadas sobre *C#*, *Python e Java.* 
   <br />
   🔆 Segue meu [Instagram](https://www.instagram.com/mateusmattos2/). 
   <br />
   💻 Visite meus projetos [aqui](https://github.com/mateusmattos1?tab=repositories)
   <br />
-  🔷 Intensificando estudos *C#.*  
+  🔷 Intensificando estudos *.NET*  
   💥 Gosto de tocar flauta, asssistir séries e jogar videogame.
   
 <br><br>
