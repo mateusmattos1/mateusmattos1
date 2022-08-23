@@ -29,6 +29,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusmattos1&color=blue" alt="Profile views" /> </p>
 
 <br />
+<br />
 
 <p align="justify"> 
   :computer: In development, starting in the programming area. I'm 19 years old. Computer Technician for Internet integrated into high school by the Federal Institute of Espírito Santo - IFES CAMPUS SERRA. The desired course in higher education is Analysis and Systems Development. My wish is to work with systems and/or data. now i'm focusing on Java, C# and Python.
