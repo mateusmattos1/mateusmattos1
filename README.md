@@ -32,7 +32,7 @@
 <br />
 
 <p align="justify"> 
-  :computer: In development, starting in the programming area. I'm 19 years old. Computer Technician for Internet integrated into high school by the Federal Institute of Espírito Santo - IFES CAMPUS SERRA. The desired course in higher education is Analysis and Systems Development. My wish is to work with systems and/or data. now i'm focusing on Java, C# and Python.
+  :computer: In development, starting in the programming area. I'm 20 years old. Computer Technician for Internet integrated into high school by the Federal Institute of Espírito Santo - IFES CAMPUS SERRA. The higher education course I chose was Systems Analysis and Development, and I also study Computer Science. My wish is to continue working with systems and/or data. At the moment I work as a systems analyst. Now i'm focusing on Java, C# and Python. 
 </p>
 
 <p align="center">
