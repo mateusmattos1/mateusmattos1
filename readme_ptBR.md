@@ -30,7 +30,7 @@
 <br />
 
 <p align="justify"> 
-  :computer: Em desenvolvimento, começando na área de programação. eu tenho 19 anos.  Formado em Tecnico em Informática p/ Internet Integrada ao Ensino Médio pelo Instituto Federal do Espírito Santo - IFES CAMPUS SERRA. O curso superior que escolhi foi Análise e Desenvolvimento de Sistemas, e também faço Ciência da Computação. Meu desejo é continuar trabalhando com sistemas e/ou dados. No momento atuo como analista de sistemas. No momento estou estudando Python, Java e C#.
+  :computer: Em constante desenvolvimento, tenho 21 anos e sou formado em Técnico em Informática para Internet Integrada ao Ensino Médio pelo Instituto Federal do Espírito Santo - IFES Campus Serra. Concluí também o curso superior em Análise e Desenvolvimento de Sistemas em 2024. Meu desejo é continuar trabalhando com sistemas e/ou dados. Atualmente, atuo como Analista de Sistemas e estou estudando Python, Java e C#.
 </p>
 
 <p align="center">
